@@ -6,4 +6,4 @@ Date: Jan 3rd, 2021 - Sep 16th, 2021 (Exactly 256 Days)
 
 I plan to develop this further in the future and make it more user friendly, but for now it's on Version 1.0.0.
 
-Included are seperate folders, each act independently from each other, but are still related. I have also included the SQL code to create the database I used (on MySQL).
+Included are seperate folders, and each act independently from each other but are still related. I have also included the SQL code to create the database I used (on MySQL).
